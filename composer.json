@@ -1,0 +1,19 @@
+{
+    "name": "hechoendrupal/dinero-mail",
+    "description": "Dinero Mail API",
+    "license": "GPL2+",
+    "authors": [
+        {
+            "name": "David Flores",
+            "email": "dmousex@gmail.com"
+        }
+    ],
+    "require": {
+      "phpseclib/phpseclib": "0.3.5"
+    },
+    "autoload": {
+      "psr-0": {
+        "HechoEnDrupal": "src"
+      }
+    }
+}
